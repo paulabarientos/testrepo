@@ -9,21 +9,15 @@
 
     <!-- Main Heading -->
     <h1>Welcome to My Website</h1>
-
-    <h2> message from local machine </h2>
     
     <!-- Paragraph of Text -->
-    <p>This is a simple paragraph showcasing basic 1234<strong>HTML elements</strong>.</p>
+    <p>This is a simple paragraph showcasing basic<strong>HTML elements</strong>.</p>
     
     <!-- Hyperlink -->
     <p>Visit the official <a href="https://developer.mozilla.org" target="_blank">MDN Web Docs</a> to learn more.</p>
     
     <!-- Image placeholder -->
     <img src="https://placeholder.com" alt="Sample Placeholder Image">
-
-
-    <h2> message from github remote </h2>
-
 
 
 </body>
