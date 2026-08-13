@@ -11,7 +11,7 @@
     <h1>Welcome to My Website</h1>
     
     <!-- Paragraph of Text -->
-    <p>This is a simple paragraph showcasing basic 1234<strong>HTML elements</strong>.</p>
+    <p>This is a simple paragraph showcasing basic<strong>HTML elements</strong>.</p>
     
     <!-- Hyperlink -->
     <p>Visit the official <a href="https://developer.mozilla.org" target="_blank">MDN Web Docs</a> to learn more.</p>
