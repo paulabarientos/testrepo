@@ -9,6 +9,8 @@
 
     <!-- Main Heading -->
     <h1>Welcome to My Website</h1>
+
+    <h2> message from local machine </h2>
     
     <!-- Paragraph of Text -->
     <p>This is a simple paragraph showcasing basic 1234<strong>HTML elements</strong>.</p>
@@ -21,6 +23,8 @@
 
 
     <h2> message from github remote </h2>
+
+
 
 </body>
 </html>
