@@ -20,8 +20,5 @@
     <img src="https://placeholder.com" alt="Sample Placeholder Image">
 
 
-    <h2> message from github remote </h2>
-    <h2> 2nd message from github remote  </h2>
-
 </body>
 </html>
