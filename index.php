@@ -20,6 +20,7 @@
     <img src="https://placeholder.com" alt="Sample Placeholder Image">
 
     <p>message from local</p>
+    <p>added this from master branch</p>
 
 
 </body>
