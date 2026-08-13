@@ -19,6 +19,8 @@
     <!-- Image placeholder -->
     <img src="https://placeholder.com" alt="Sample Placeholder Image">
 
+    <p>message from local</p>
+
 
 </body>
 </html>
